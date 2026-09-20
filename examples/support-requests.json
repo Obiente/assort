@@ -1,0 +1,41 @@
+[
+  {
+    "state": "Please help me get a refund for a duplicate payment.",
+    "questions": [{
+      "id": "department",
+      "text": "Which team should handle this request?",
+      "candidates": [
+        {"id": "billing", "description": "Payments invoices charges refunds"},
+        {"id": "technical", "description": "Software errors crashes bugs"},
+        {"id": "delivery", "description": "Packages shipping tracking delivery"},
+        {"id": "account", "description": "Account login passwords access"}
+      ]
+    }]
+  },
+  {
+    "state": "My software crashes every time I open the app.",
+    "questions": [{
+      "id": "department",
+      "text": "Which team should handle this request?",
+      "candidates": [
+        {"id": "billing", "description": "Payments invoices charges refunds"},
+        {"id": "technical", "description": "Software errors crashes bugs"},
+        {"id": "delivery", "description": "Packages shipping tracking delivery"},
+        {"id": "account", "description": "Account login passwords access"}
+      ]
+    }]
+  },
+  {
+    "state": "I forgot my password and cannot access my account.",
+    "questions": [{
+      "id": "department",
+      "text": "Which team should handle this request?",
+      "candidates": [
+        {"id": "billing", "description": "Payments invoices charges refunds"},
+        {"id": "technical", "description": "Software errors crashes bugs"},
+        {"id": "delivery", "description": "Packages shipping tracking delivery"},
+        {"id": "account", "description": "Account login passwords access"}
+      ]
+    }]
+  }
+]

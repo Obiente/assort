@@ -1,0 +1,18 @@
+[package]
+name = "assort-tokenizer"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+publish.workspace = true
+
+[dependencies]
+assort-core.workspace = true
+serde.workspace = true
+sha2.workspace = true
+tokenizers = { version = "=0.23.1", default-features = false, features = ["fancy-regex"] }
+
+[dev-dependencies]
+tempfile.workspace = true
+
+[lints]
+workspace = true

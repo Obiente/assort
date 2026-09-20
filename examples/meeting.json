@@ -1,0 +1,17 @@
+{
+  "id": "release-planning",
+  "title": "Release planning call",
+  "goal": "Capture final decisions, assigned actions, and important facts.",
+  "segments": [
+    {"id":"turn-1","start_ms":0,"end_ms":8000,"speaker":"Alex","text":"Hello everyone, thanks for joining the call."},
+    {"id":"turn-2","start_ms":10000,"end_ms":18000,"speaker":"Sam","text":"Can everyone hear me? Let me find the document."},
+    {"id":"turn-3","start_ms":20000,"end_ms":33000,"speaker":"Jordan","text":"The security review is blocking the release."},
+    {"id":"turn-4","start_ms":35000,"end_ms":44000,"speaker":"Taylor","text":"Maybe we could launch on Friday, but this is only a suggestion."},
+    {"id":"turn-5","start_ms":46000,"end_ms":59000,"speaker":"Alex","text":"We decided to delay the release by one week."},
+    {"id":"turn-6","start_ms":61000,"end_ms":74000,"speaker":"Sam","text":"Jordan will send the security report by Tuesday."},
+    {"id":"turn-7","start_ms":76000,"end_ms":86000,"speaker":"Taylor","text":"The available budget is 5000 euros."},
+    {"id":"turn-8","start_ms":88000,"end_ms":99000,"speaker":"Alex","text":"We decided to delay the release by one week."},
+    {"id":"turn-9","start_ms":101000,"end_ms":114000,"speaker":"Taylor","text":"Sam will contact the customer about the revised schedule tomorrow."},
+    {"id":"turn-10","start_ms":116000,"end_ms":124000,"speaker":"Jordan","text":"Thanks everyone, have a good afternoon."}
+  ]
+}

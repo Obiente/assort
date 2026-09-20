@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:08,000
+Hello everyone, thanks for joining the call.
+
+2
+00:00:20,000 --> 00:00:33,000
+The security review is blocking the release.
+
+3
+00:00:46,000 --> 00:00:59,000
+We decided to delay the release by one week.
+
+4
+00:01:01,000 --> 00:01:14,000
+Jordan will send the security report by Tuesday.
+
+5
+00:01:16,000 --> 00:01:26,000
+The available budget is 5000 euros.
+
+6
+00:01:56,000 --> 00:02:04,000
+Thanks everyone, have a good afternoon.

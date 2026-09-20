@@ -1,0 +1,11 @@
+/target/
+/.local/
+/models/
+/data/
+/runs/
+*.mpk
+*.safetensors
+*.log
+.env
+.env.*
+!.env.example

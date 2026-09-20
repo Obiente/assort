@@ -1,0 +1,24 @@
+[
+  {
+    "state": "A customer reports a failed card payment and asks for help.",
+    "questions": [
+      {
+        "id": "department",
+        "text": "Which department should handle this?",
+        "candidates": [
+          { "id": "billing", "description": "Payments and invoices" },
+          { "id": "technical", "description": "Software failures" },
+          { "id": "sales", "description": "Purchasing and upgrades" }
+        ]
+      },
+      {
+        "id": "urgent",
+        "text": "Does this require urgent attention?",
+        "candidates": [
+          { "id": "true", "description": "Yes. The statement is true." },
+          { "id": "false", "description": "No. The statement is false." }
+        ]
+      }
+    ]
+  }
+]
