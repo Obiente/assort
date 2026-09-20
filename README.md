@@ -17,7 +17,7 @@ This is an experimental foundation with runnable training examples. No pretraine
 Install Rust 1.92 or newer with Cargo. Windows needs the MSVC build tools used by Rust. The default backend is Burn Flex on CPU; no Python, CUDA, LibTorch, downloaded weights, or external service is required. The first build downloads Rust dependencies.
 
 ```sh
-git clone https://github.com/veryCrunchy/assort.git
+git clone https://github.com/obiente/assort.git
 cd assort
 ```
 
